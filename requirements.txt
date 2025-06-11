@@ -1,2 +1,3 @@
-PySimpleGUI
 keyboard
+# PySimpleGUI yüklemesi için install.py dosyasını çalıştırın. (Kendi sitesinden yüklenmesi gerekiyor)
+#Yakında değişecek.
